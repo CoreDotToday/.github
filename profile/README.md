@@ -14,10 +14,5 @@ CoreDotToday는 오픈소스 플랫폼으로, 모든 사람들이 참여하고 �
 
 저희의 모든 문서와 자료는 GitHub 리포지토리에서 찾을 수 있습니다. 또한 자주 묻는 질문(FAQ) 섹션, 튜토리얼, 가이드 등도 참조하실 수 있습니다. CoreDotToday는 커뮤니티의 참여와 피드백을 환영합니다. 어떤 질문이나 제안이 있으시면 언제든지 이슈를 생성하거나 저희에게 연락해 주세요.
 
-### 🍿 재미있는 사실 - 여러분의 팀은 아침에 무엇을 먹나요?
-
-저희 팀은 아침에 다양한 음식을 즐깁니다. 김치찌개에서 라면, 그리고 과일까지. 하지만, 팀의 공통점이라면 그것은 바로 커피입니다. 개발과 연구를 지원하는 무한한 커피가 저희 팀의 에너지를 충전합니다!
-
-### 🧙 기억하세요, [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)의 힘으로 대단한 일을 할 수 있습니다!
-
-당신의 참여를 기다립니다. 함께 CoreDotToday를 만들어 가요!
+- [마크다운 사용법](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [스타일가이드](https://github.com/CoreDotToday/styleguide)
